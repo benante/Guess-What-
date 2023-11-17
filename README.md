@@ -1,6 +1,6 @@
-## In House Project
+## Guess What ??
 
-In House Project is an exciting game that merges the creativity of Pictionary with the unpredictable twists of Chinese Whispers.
+Guess What ?? is an exciting game that merges the creativity of Pictionary with the unpredictable twists of Chinese Whispers.
 
 ## How it Works
 
@@ -17,13 +17,13 @@ In House Project is an exciting game that merges the creativity of Pictionary wi
 Clone the project:
 
 ```bash
-  git clone https://github.com/fac28/in-house-project
+  git clone https://github.com/benante/guess-what-.git
 ```
 
 Go to the project directory:
 
 ```bash
-  cd in-house-project
+  cd guess-what
 ```
 
 Install dependencies:
